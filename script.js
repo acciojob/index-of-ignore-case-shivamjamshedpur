@@ -1,4 +1,4 @@
-function indexOfIgnoreCase(s1, s2) {
+function indexOfIgnoreCase(lowerCaseStr, lowerCaseSubStr) {
   // write your code here
 	  const lowerCaseStr = str.toLowerCase();
   const lowerCaseSubStr = subStr.toLowerCase();
